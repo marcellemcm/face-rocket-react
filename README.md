@@ -15,4 +15,3 @@ npm install ou yarn install
 npm dev ou yarn dev
 ```
 - Acesse http://localhost:8080
-# face-rocket-react
